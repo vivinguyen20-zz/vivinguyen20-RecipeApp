@@ -10,9 +10,6 @@ target 'Recipe-App' do
   pod "TPKeyboardAvoidingSwift"
   pod 'SDWebImage', '~> 5.0'
   pod 'RealmSwift'
-  pod 'Moya/RxSwift'
-  pod 'SwiftLint'
-  pod 'ObjectMapper'
   pod 'PKHUD', '~> 5.2.1'
 
   target 'Recipe-AppTests' do
