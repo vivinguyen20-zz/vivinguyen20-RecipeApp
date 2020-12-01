@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipes>
+    <recipe>
+        <type>Dinner</type>
+        <name>Beef Parmesan with Garlic Angel Hair Pasta</name>
+        <ingredient name="beef cube steak" amount="1.5" unit="pound"/>
+        <ingredient name="onion, sliced into thin rings" amount="1"/>
+        <ingredient name="green bell pepper, sliced in rings" amount="1"/>
+        <ingredient name="Italian seasoned bread crumbs" amount="1" unit="cup"/>
+        <ingredient name="grated Parmesan cheese" amount="0.5" unit="cup"/>
+        <ingredient name="olive oil" amount="2" unit="tablespoon"/>
+        <ingredient name="spaghetti sauce" amount="1" unit="jar"/>
+        <ingredient name="shredded mozzarella cheese" amount="0.5" unit="cup"/>
+        <ingredient name="angel hair pasta" amount="12" unit="ounce"/>
+        <ingredient name="minced garlic" amount="2" unit="teaspoon"/>
+        <ingredient name="butter" amount="0.25" unit="cup"/>
+        <steps>
+            <step> Preheat oven to 350 degrees F (175 degrees C). </step>
+            <step> Cut cube steak into serving size pieces. Coat meat with the bread crumbs and parmesan cheese. Heat olive oil in a large frying pan, and saute 1 teaspoon of the garlic for 3 minutes. Quick fry (brown quickly on both sides) meat. Place meat in a casserole baking dish, slightly overlapping edges. Place onion rings and peppers on top of meat, and pour marinara sauce over all. </step>
+            <step> Bake at 350 degrees F (175 degrees C) for 30 to 45 minutes, depending on the thickness of the meat. Sprinkle mozzarella over meat and leave in the oven till bubbly. </step>
+            <step> Boil pasta al dente. Drain, and toss in butter and 1 teaspoon garlic. For a stronger garlic taste, season with garlic powder. Top with grated parmesan and parsley for color. Serve meat and sauce atop a mound of pasta! </step>
+        </steps>
+        <image_url>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mexican-skirt-steak-and-avocado-salad-wdy-0520-1588091591.jpg</image_url>
+    </recipe>
+    <recipe>
+        <name>Zuppa Inglese</name>
+        <type>Healthy</type>
+        <ingredient name="egg yolks" amount="4"/>
+        <ingredient name="milk" amount="2.5" unit="cup"/>
+        <ingredient name="Savoiardi biscuits" amount="21"/>
+        <ingredient name="sugar" amount="0.75" unit="cup"/>
+        <ingredient name="Alchermes liquor" amount="1" unit="cup"/>
+        <ingredient name="lemon zest" amount="*"/>
+        <ingredient name="flour" amount="0.5" unit="cup"/>
+        <ingredient name="fresh whipping cream" amount="*"/>
+        <steps>
+            <step> Warm up the milk in a nonstick sauce pan </step>
+            <step> In a large bowl beat the egg yolks with the sugar, add the flour and combine the ingredients until well mixed. </step>
+            <step> Add the milk, a little bit at the time to the egg mixture, mixing well. </step>
+            <step> Put the mixture into the sauce pan and cook it on the stove at a medium low heat. Mix the cream continuously with a wooden spoon. When it starts to thicken remove it from the heat and pour it on a large plate to cool off. </step>
+            <step> Stir the cream now and then so that the top doesn't harden. </step>
+            <step> Dip quickly both sides of the lady fingers in the liquor. Layer them one at the time in a glass bowl large enough to contain 7 biscuits. </step>
+            <step> Spread 1/3 of the cream and repeat the layer with lady fingers. Finish with the cream. </step>
+        </steps>
+        <image_url>https://www.nonnabox.com/wp-content/uploads/2020/01/zuppa_inglese_recipe_italian_trifle.jpg</image_url>
+    </recipe>
+    <recipe>
+        <type>Fast Food</type>
+        <name>Sandy’s Chocolate Cake</name>
+        <ingredient name="butter" amount="1" unit="cup"/>
+        <ingredient name="packed brown sugar" amount="3" unit="cup"/>
+        <ingredient name="eggs" amount="4" unit="large"/>
+        <ingredient name="vanilla" amount="2" unit="teaspoons"/>
+        <ingredient name="all-purpose flour" amount="2-2/3" unit="cup"/>
+        <ingredient name="baking cocoa" amount="3/4" unit="cup"/>
+        <ingredient name="salt" amount="1/2" unit="teaspoon"/>
+        <ingredient name="sour cream" amount="1-1/3" unit="cup"/>
+        <steps>
+            <step>Preheat oven to 350°. Grease and flour three 9-in. round baking pans.</step>
+            <step>In a large bowl, cream butter and brown sugar until light and fluffy. Add eggs, 1 at a time, beating well after each addition. Beat in vanilla. In another bowl, whisk flour, cocoa, baking soda and salt; add to creamed mixture alternately with sour cream, beating well after each addition. Stir in water until blended.</step>
+            <step>Transfer to prepared pans. Bake until a toothpick comes out clean, 30-35 minutes. Cool in pans 10 minutes; remove to wire racks to cool completely.</step>
+            <step>For frosting, in a metal bowl over simmering water, melt butter and chocolates stir until smooth.</step>
+            <step>Cool slightly.</step>
+            <step>In a large bowl, combine confectioners' sugar, sour cream and vanilla.</step>
+            <step>Add chocolate mixture; beat until smooth. Spread frosting between layers and over top and sides of cake. Refrigerate leftovers.</step>
+        </steps>
+        <image_url>https://www.cookiemadness.net/wp-content/uploads/2018/01/sandyschocolatecake.jpg</image_url>
+    </recipe>
+    <recipe>
+        <type>Fast Food</type>
+        <name>Indiana-Style Corn Dogs</name>
+        <ingredient name="all-purpose flour" amount="1" unit="cup"/>
+        <ingredient name="yellow cornmeal" amount="1/2" unit="cup"/>
+        <ingredient name="sugar" amount="1" unit="tablespoon"/>
+        <ingredient name="baking powder" amount="3" unit="teaspoons"/>
+        <ingredient name="salt" amount="1" unit="teaspoons"/>
+        <ingredient name="ground mustard" amount="1/2" unit="teaspoons"/>
+        <ingredient name="paprikam" amount="1/4" unit="teaspoon"/>
+        <steps>
+            <step>In a bowl, whisk the first 8 ingredients. Whisk in egg and milk just until blended. Transfer batter to a tall drinking glass.</step>
+            <step>In an electric skillet or deep-fat fryer, heat oil to 375°.</step>
+            <step>Insert skewers into hot dogs. Dip hot dogs into batter; allow excess batter to drip off.</step>
+            <step>Fry corn dogs, a few at a time, 2-3 minutes or until golden brown, turning occasionally.</step>
+            <step>Drain on paper towels. Serve immediately.</step>
+        </steps>
+        <image_url>https://www.tasteofhome.com/wp-content/uploads/2018/01/Indiana-Style-Corn-Dogs_exps3398_TH143192A02_07_3b_RMS-696x696.jpg</image_url>
+    </recipe>
+    <recipe>
+        <type>No-Cook</type>
+        <name>Greek Salad</name>
+        <ingredient name="grape or cherry tomatoes" amount="1" unit="pt."/>
+        <ingredient name="cucumber" amount="1"/>
+        <ingredient name="kalamata olives" amount="1/2" />
+        <ingredient name="red onion" amount="1/2 "/>
+        <ingredient name="fetam" amount="3/4"/>
+        <steps>
+            <step>Make salad: In a large bowl, stir together tomatoes, cucumber, olives, and red onion. Gently fold in feta.</step>
+            <step>In a small bowl, make dressing: Combine vinegar, lemon juice, and oregano and season with salt and pepper. Slowly add olive oil, whisking to combine.</step>
+            <step> Drizzle dressing over salad.</step>
+        </steps>
+        <image_url>https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/23/0/BX0204_greek-salad_s4x3.jpg.rend.hgtvcom.826.620.suffix/1529943050536.jpeg</image_url>
+    </recipe>
+    <recipe>
+        <type>Vegetarian</type>
+        <name>Mexican Skirt Steak and Avocado Salad</name>
+        <ingredient name="green beans" amount="*" />
+        <ingredient name="fresh thyme" amount="12" unit="sprigs"/>
+        <ingredient name="olive oil" amount="2" unit="teaspoons"/>
+        <ingredient name="boneless, skinless chicken breasts" amount="1/2"/>
+        <ingredient name="artichoke" amount="1"/>
+        <steps>
+            <step>Heat oven to 425°F. On a rimmed baking sheet, toss green beans and 6 sprigs thyme with 1 Tbsp oil and 1/4 tsp each salt and pepper, then toss with 1/4 cup Parmesan. Nestle artichokes onto pan, cut sides down, and roast on bottom rack in oven until golden brown and tender, 10 to 12 minutes.</step>
+            <step>Meanwhile, heat remaining Tbsp oil in a large oven-safe skillet on medium. Season chicken with 1/4 tsp each salt and pepper and cook until golden brown on bottom, 3 to 4 minutes. Flip chicken over and cook 2 minutes more.</step>
+            <step>Add lemon, cut side down, and remaining 6 thyme sprigs to skillet. Transfer skillet to oven along with vegetables and roast until chicken is cooked through, 9 to 10 minutes more.</step>
+            <step>Toss remaining Parmesan with artichokes and green beans, then serve with chicken.</step>
+        </steps>
+        <image_url>https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/mexican-skirt-steak-and-avocado-salad-wdy-0520-1588091591.jpg</image_url>
+    </recipe>
+    <recipe>
+        <type>Break Fast</type>
+        <name>Mini Sesame Zucchini Loaves</name>
+        <ingredient name="olive oil" amount="2/3" unit="cup"/>
+        <ingredient name="all-purpose flour" amount="2" unit="cup"/>
+        <ingredient name="baking powder" amount="1/2" unit="teaspoons"/>
+        <ingredient name="kosher salt" amount="1" unit="teaspoons"/>
+        <ingredient name="sugar" amount="1/2" unit="cup"/>
+        <ingredient name="lemonn" amount="1" unit="large"/>
+        <steps>
+            <step>Heat oven to 350°F. Oil 3 mini (3- by 6-inch) loaf pans.</step>
+            <step> In large bowl, whisk together flour, baking powder, and salt.</step>
+            <step>In second bowl, combine sugars, then finely grate lemon zest on top.</step>
+            <step>Rub zest into sugars with fingertips, breaking up any clumps of brown sugar.</step>
+            <step>Add eggs and oil and whisk until smooth. Stir in zucchini, then flour mixture. Gently fold in walnuts.</step>
+            <step>Divide batter evenly among prepared pans.</step>
+            <step>Sprinkle tops with sesame seeds and bake until wooden pick inserted in centers comes out clean, 35 to 40 minutes.</step>
+            </steps>
+        <image_url>https://images.squarespace-cdn.com/content/v1/5cd7043997feab000181de4a/1558683466223-HQGZ047SA0UO98EQZY4W/ke17ZwdGBToddI8pDm48kPrRw8AS0yMw2exjcsUYN71Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PITf2JJvpuy5CUxEDmCWCXAC94Uo3AdCZ1hMH42MpSipkKMshLAGzx4R3EDFOm1kBS/mini-sesame-zucchini-loaves.jpg</image_url>
+    </recipe>
+</recipes>

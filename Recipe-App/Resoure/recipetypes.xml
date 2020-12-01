@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<recipetypes>
+    <recipetype>
+        <name>Vegetarian</name>
+    </recipetype>
+    <recipetype>
+        <name>Fast Food</name>
+    </recipetype>
+    <recipetype>
+        <name>Healthy</name>
+    </recipetype>
+    <recipetype>
+        <name>No-Cook</name>
+    </recipetype>
+    <recipetype>
+        <name>Dinner</name>
+    </recipetype>
+    <recipetype>
+        <name>Break Fast</name>
+    </recipetype>
+    <recipetype>
+        <name>Other</name>
+    </recipetype>
+</recipetypes>
